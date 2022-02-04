@@ -1,0 +1,22 @@
+{
+  "name": "friday-chalange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zilvinas <svirskaszilvinas@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dead": "^0.0.2",
+    "server": "^1.0.37"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "dead-server": "^1.0.6"
+  },
+  "description": ""
+}

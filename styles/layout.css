@@ -1,0 +1,14 @@
+header{
+    object-position: left;
+    align-items: center;
+}
+header > img{
+    float:left
+}
+nav > {
+    display: block;
+}
+a > {
+display: block;
+float: left
+}
